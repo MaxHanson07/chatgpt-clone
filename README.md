@@ -59,8 +59,6 @@ Visit http://localhost:3000 to interact with the ChatGPT clone.
 
 ### Features
 
-React Components: Modular components for easy maintenance and scalability.
-
 OpenAI Integration: Seamless integration with the OpenAI API for powerful conversational capabilities.
 
-User-friendly Interface: A clean and intuitive interface for a smooth user experience.
+User-friendly Interface: A clean and intuitive interface built in React.js for a smooth user experience.
