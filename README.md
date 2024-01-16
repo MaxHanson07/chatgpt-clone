@@ -53,8 +53,8 @@ Run the development server:
 
 ```bash
 npm start
-
 Visit http://localhost:3000 to interact with the ChatGPT clone.
+
 
 ### Features
 
