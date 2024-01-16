@@ -47,6 +47,7 @@ Make sure you have the following installed on your machine:
 
     Replace `your-api-key-goes-here` with your actual OpenAI API key.
 
+
 ### Usage
 
 Run the development server:
@@ -54,7 +55,7 @@ Run the development server:
 ```bash
 npm start
 Visit http://localhost:3000 to interact with the ChatGPT clone.
-
+```
 
 ### Features
 
